@@ -1,0 +1,9 @@
+{
+  "name": "fastlaunch",
+  "version": "0.1.0",
+  "description": "Full solopreneur webapp launch kit — infra, onboarding emails, SEO, social, and WhatsApp in one workflow. Powered by Supabase, GitHub, Resend, Rankahead, and WhatsChat.",
+  "author": {
+    "name": "Alexandre Contador"
+  },
+  "keywords": ["launch", "saas", "solopreneur", "startup", "gtm", "rankahead", "whatschat"]
+}
